@@ -1,0 +1,18 @@
+Evaluation for Year: 2020
+F1 Score: 0.5553
+
+Confusion Matrix:
+[[28241  3210   384]
+ [ 3103  2937   409]
+ [  363   283   340]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89     31835
+           1       0.46      0.46      0.46      6449
+           2       0.30      0.34      0.32       986
+
+    accuracy                           0.80     39270
+   macro avg       0.55      0.56      0.56     39270
+weighted avg       0.80      0.80      0.80     39270

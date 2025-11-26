@@ -1,0 +1,20 @@
+Evaluation for Year: 2022
+F1 Score: 0.4046
+
+Confusion Matrix:
+[[26846  4786   286     0]
+ [ 2657  3251   595    17]
+ [  333   187   312     0]
+ [    0     0     0     0]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.84      0.87     31918
+           1       0.40      0.50      0.44      6520
+           2       0.26      0.38      0.31       832
+           3       0.00      0.00      0.00         0
+
+    accuracy                           0.77     39270
+   macro avg       0.39      0.43      0.40     39270
+weighted avg       0.80      0.77      0.79     39270

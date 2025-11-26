@@ -1,0 +1,20 @@
+Evaluation for Year: 2017
+F1 Score: 0.3270
+
+Confusion Matrix:
+[[25571  4155  1592     0]
+ [ 1860  3342  1406    41]
+ [  312   990     1     0]
+ [    0     0     0     0]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.92      0.82      0.87     31318
+           1       0.39      0.50      0.44      6649
+           2       0.00      0.00      0.00      1303
+           3       0.00      0.00      0.00         0
+
+    accuracy                           0.74     39270
+   macro avg       0.33      0.33      0.33     39270
+weighted avg       0.80      0.74      0.77     39270
